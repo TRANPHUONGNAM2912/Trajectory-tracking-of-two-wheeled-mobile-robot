@@ -4,8 +4,8 @@
 
 mtx_type Td[2][2];
 mtx_type TdInv[2][2];
-const char* ssid = "Wifi";
-const char* password = "1111111111";
+const char* ssid = " ";
+const char* password = " ";
 float kp=0.02;   
 float ki=0.00015;  
 float kd=0.01; 
