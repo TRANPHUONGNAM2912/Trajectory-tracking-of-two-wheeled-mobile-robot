@@ -14,12 +14,13 @@ Dự án này tập trung vào việc thiết kế và đánh giá các bộ đi
 -So sánh hiệu suất mô phỏng và thực nghiệm  
 ## Phần mềm
 -Matlab R2021B(hoặc cao hơn)  
--Arduino IDE 2.xx(lập trình cho ESP32)
+-Arduino IDE 2.xx(lập trình cho ESP32)  
 -Solidworks 2022
 ## Thực nghiệm
 -Thay đổi ssid và password trong file **ino** và nạp xuống ESP32  
 -Lấy địa chỉ ip do ESP32 cung cấp khi đã kết nối được Wifi và điền vào ip_address trong file **python**  
--Khởi chạy file **python** và nhấn Start
+-Khởi chạy file **python** và nhấn Start  
+-Link video: https://www.youtube.com/watch?v=6Xz11GfAjuo&t=38s
 ## Lưu ý
 -Tải borad ESP32 by Esppressif 2.0.17  
 -ESP32 và Laptop phải kết nối chung 1 Wifi có tần số 2.4Ghz
