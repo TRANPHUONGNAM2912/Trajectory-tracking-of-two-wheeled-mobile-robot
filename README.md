@@ -8,10 +8,10 @@ Dự án này tập trung vào việc thiết kế và đánh giá các bộ đi
 +Bộ điều khiển trượt SMC (Sliding Mode Control)  
 +Bộ điều khiển mờ Fuzzy Logic  
 +Bộ điều khiển mạng nơ-ron Neural Network  
--Mô phỏng sử dụng MATLAB/Simulink 
--Thiết kế mô hình phần cứng trên Solidworks
--Nhúng code vào phần cứng sử dụng C  
--So sánh hiệu suất mô phỏng và thực nghiệm  
+-Mô phỏng sử dụng MATLAB/Simulink  
+-Thiết kế mô hình phần cứng trên Solidworks  
+-Nhúng code vào phần cứng sử dụng C    
+-So sánh hiệu suất mô phỏng và thực nghiệm    
 ## Phần mềm
 -Matlab R2021B(hoặc cao hơn)  
 -Arduino IDE 2.xx(lập trình cho ESP32)  
