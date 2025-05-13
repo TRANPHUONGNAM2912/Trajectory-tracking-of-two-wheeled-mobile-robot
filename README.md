@@ -75,12 +75,6 @@ Dự án này tập trung vào việc thiết kế và đánh giá các bộ đi
 - Đảm bảo cài đặt tất cả các thư viện cần thiết cho ESP32 (WiFi, WebServer, MatrixMath)
 - Nên giám sát mức pin trong quá trình hoạt động
 
-## Người Đóng Góp
-- Nguyễn Văn A - Phát triển thuật toán điều khiển mạng nơ-ron
-- Trần Thị B - Thiết kế mô hình CAD và phần cứng
-- Lê Văn C - Triển khai giao diện người dùng và phần mềm đồ họa
-- Phạm Thị D - Kiểm thử và đánh giá hiệu suất
-
 ## Giấy Phép
 Dự án này được phân phối theo giấy phép MIT. Xem file LICENSE để biết thêm chi tiết.
 
